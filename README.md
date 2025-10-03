@@ -14,3 +14,20 @@ It integrates raw e-commerce datasets into clean, analytics-ready tables and pro
 - Great Expectations (data quality)
 
 ## Folder Structure
+customer-360-data-platform/
+│ README.md
+│ requirements.txt
+│ LICENSE
+│ /data
+│ /raw
+│ /sample
+│ /notebooks
+│ /dashboards
+│ /tests
+│ /docs
+
+
+## Business Goals
+- Build a **360° view of customers**
+- Enable **segmentation & retention analysis**
+- Provide actionable dashboards for decision-making
