@@ -1,0 +1,6 @@
+cluster_name,customers,avg_spend,avg_orders,avg_aov,avg_return_rate
+Churned Shoppers,745,35337.54,14.51,2446.47,0.19
+Engaged Explorers,515,33763.88,13.07,2599.13,0.07
+Occasional Buyers,1229,58430.76,19.31,3083.42,0.07
+Price-Sensitive,1004,28986.04,12.23,2379.25,0.04
+VIP Spenders,1507,36763.25,17.55,2104.99,0.06

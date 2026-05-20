@@ -1,0 +1,6 @@
+rfm_segment,customers,avg_spend,total_revenue,avg_orders,avg_recency_days,revenue_share_%
+At Risk,759,28207.52,21409504.67,12.51,746.98,10.7
+Champions,768,57057.22,43819944.85,21.07,685.52,21.9
+Lost / Inactive,445,22847.71,10167228.83,10.69,808.26,5.1
+Loyal Customers,1487,46774.53,69553725.16,17.88,710.13,34.8
+Potential Loyalists,1541,35743.07,55080077.44,14.91,727.53,27.5
