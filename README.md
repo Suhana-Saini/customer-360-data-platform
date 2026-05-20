@@ -162,26 +162,31 @@ customer-360-data-platform/
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
+├── .gitignore
 │
 ├── data/
 │   ├── raw/
+│   │   ├── crm_customers_sample.csv
+│   │   ├── transactions_sample.csv
+│   │   ├── web_events_sample.csv
+│   │   └── support_tickets_sample.csv
+│   │
 │   └── processed/
+│       └── customer_360_master.csv
 │
 ├── scripts/
 │   ├── 01_etl_pipeline.py
 │   ├── 02_segmentation_analysis.py
 │   └── 03_sql_analytics.sql
 │
-├── notebooks/
-│
 ├── dashboards/
 │   ├── dashboard_executive.png
 │   ├── dashboard_clusters.png
 │   └── heatmap_segment_city.png
 │
-├── docs/
-│
 └── outputs/
+    ├── cluster_summary.csv
+    └── rfm_segment_summary.csv
 ```
 
 ---
