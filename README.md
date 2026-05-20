@@ -211,15 +211,6 @@ The platform provides dashboards for:
 - Customer personas
 - Churn risk monitoring
 - City-level revenue analysis
-- Cross-sell opportunity tracking
-
-## Dashboard Preview
-
-![Executive Dashboard](dashboards/dashboard_executive.png)
-
-![Cluster Dashboard](dashboards/dashboard_clusters.png)
-
-![Segment Heatmap](dashboards/heatmap_segment_city.png)
 
 ---
 
